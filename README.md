@@ -1,5 +1,5 @@
 # AWS
 <details>
-  <summary>Click to reveal</summary>
-  <p>This is hidden content until clicked.</p>
+  <summary>Region</summary>
+  <p>There are multiple Region in world basically regions are cluster of data center/p>
 </details>
