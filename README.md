@@ -5,23 +5,22 @@
 </details>
 <details>
   <summary>Availability Zone</summary>
-  <p>In each region there will be minimum 3 and max 6 Availability Zone every availabilty zone is connected with each other with high fiber connectivity</p>
-  <img src="Region-Avail.ppm">
+  <img src="Region1.png">
+  <img src="Region2.png">
+
+  <img src="Region3.png">
+
+  <img src="Region4.png">
+
+  <img src="Region5.png">
+
+
 
 </details>
 <details>
 <summary>IAM</summary>
-<p>IAM stands for indetity access management and it is a global services</p>
-  <img src="usergrp.webp">
+<img src="IAM.png">
 
-<details>
-<summary>Groups</summary>
-<p>Groups can only contains users not groups</p>
-</details>
-<details>
-<summary>Users</summary>
-<p>Users don't have to belong to any group, a user can belong to multiple groups</p>
-</details>
 </details>
 
 
