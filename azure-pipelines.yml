@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 stages:
-  - stage: stage-1
+  - stage: stage_1
     displayName: stage-1
     jobs: 
       - job: A
@@ -23,7 +23,7 @@ stages:
         steps:
           - script: echo "stage-1 jobB script-1" 
           - script: echo "stage-1 jobB script-1"
-  - stage: stage-2 
+  - stage: stage_2 
     displayName: stage-2
     jobs: 
       - job: A
